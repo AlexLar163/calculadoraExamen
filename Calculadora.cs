@@ -1,6 +1,6 @@
 ﻿using System;
 
-﻿public class Class1
+public class Class1
 {
 	private double num1;
 	private double num2;
@@ -19,5 +19,10 @@
     public int Resta()
 	{
 		return num1 - num2;
+	}
+
+	  public int division()
+	{
+		return num1 / num2;
 	}
 }
