@@ -3,7 +3,7 @@
 - Jhanny realiza la suma
 - Cristina realiza la resta
 - Franklin realiza la multiplicacion
-- Alex realiza la divicion
+- Alex realiza la division
 
 
 
