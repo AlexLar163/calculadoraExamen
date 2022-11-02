@@ -1,6 +1,6 @@
 ﻿using System;
 
-﻿public class Class1
+public class Class1
 {
 	private double num1;
 	private double num2;
@@ -20,4 +20,8 @@
 	{
 		return num1 - num2;
 	}
+    public int Suma()
+    {
+        return num1 + num2;
+    }
 }
